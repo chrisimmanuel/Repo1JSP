@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form method="post" action="SaveName.jsp">
+    whats your name ? <input type="text" name="username" size="20">
+    <p><input type="submit"></p>
+  </form>
   </body>
 </html>
